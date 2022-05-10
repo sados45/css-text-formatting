@@ -1,0 +1,53 @@
+h1{
+
+    color:red;
+
+}
+.about{
+    text-align:justify;
+    letter-spacing:5px;
+}
+
+h2{
+
+   
+}
+p.description{
+    color:rgb(17, 0, 255);
+    background-color:rgb(224, 184, 8);
+    text-align:justify;
+    line-height: 35px;
+    text-shadow:1px 1px rgb(0, 38, 255);
+}
+
+.paragraph{
+    background-color:aqua;
+    line-height:30px;
+    text-transform:capitalize;
+    text-decoration: underline;
+
+}
+
+/* left--text-decoration: underline;altini cizer
+center:text-decoration:overline;üstünü cizer
+right:text-decoration:line-through;tam üsütünü cizer
+justify:text-decoration:none;iki yana yaslar
+
+left{text-transform:capitalize; bütün kelimeleri bütün kelimeleri büyük yazar
+right{text-transform:lowercase;bütün kelimeleri kücük yazar.
+    text-indent: 20px; tab tusunun görevini yapar. paragraf basi yapar.
+
+    letter spacing: kelimelerin arasini aca aca yazar. 
+    text-align:justify;
+    letter-spacing:5px;
+
+    Line-Height özelligi ile satirlar arasindaki yüksekligi ayarliyorsun
+    text-slign:justify;
+    line-height:20px;
+
+    gölgelendirme::
+
+    text shadow ile yapilir
+    text-align:justify;
+    line-height:30px;
+    text-shadow:1px 1px red;
